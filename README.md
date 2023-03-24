@@ -1,3 +1,4 @@
 # This repository contains shell Tasks : basics , permissions and redirections
-![picture](https://github.com/hananemazyan/alx-system_engineering-devops/blob/master/t%C3%A9l%C3%A9chargement.png)
+![pictureeee](https://github.com/hananemazyan/alx-system_engineering-devops/blob/master/linux-vs-windows-security-3.jpg)
 # Resource
+* **you can find more in each file**
