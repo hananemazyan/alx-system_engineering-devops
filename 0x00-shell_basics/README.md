@@ -1,4 +1,4 @@
-# Here you can find some Basic command in the shell
+# Here you can find some Basic commands in the shell
 
 ![pictureeee](https://github.com/hananemazyan/alx-system_engineering-devops/blob/master/0x00-shell_basics/industrial.gif)
 
